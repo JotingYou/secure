@@ -1,4 +1,5 @@
 #coding=utf-8
+#!/usr/bin/python
 #字符表
 mstr = 'abcdefghijklmnopqrstuvwxyz'
 lengthM = len(mstr)#字符表长度
